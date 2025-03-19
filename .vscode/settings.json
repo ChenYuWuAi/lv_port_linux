@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.java": "java",
+        "*.ino": "cpp",
+        "*.m": "matlab",
+        "xf86drm.h": "c",
+        "lv_demos.h": "c",
+        "lvgl.h": "c",
+        "lv_drivers.h": "c",
+        "lv_linux_drm.h": "c",
+        "lv_demo_benchmark.h": "c"
+    }
+}
